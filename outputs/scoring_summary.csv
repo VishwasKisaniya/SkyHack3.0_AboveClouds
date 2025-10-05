@@ -1,0 +1,2 @@
+analysis_timestamp,carrier_focus,total_ua_flights,total_days,avg_flights_per_day,avg_difficulty_score,std_difficulty_score,min_difficulty_score,max_difficulty_score,model_version
+2025-10-05 23:27:15,United Airlines,4502,15,300.1333333333333,0.416603500999143,0.02833769709490563,0.2078299868849143,0.5258818589165604,ua_focused_v1.0
